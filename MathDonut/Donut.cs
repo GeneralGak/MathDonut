@@ -85,7 +85,6 @@ namespace MathDonut
 					double[,] rotatedCirclePosition = MultiplyMatrices(circlePosition, MultiplyMatrices(circleRotation, MultiplyMatrices(rotateAroundX, rotateAroundZ)));
 
 					//Vector3 rotatedCirclePosition = new Vector3(circlePosition.X * cosphi, circlePosition.Y, -circlePosition.X * sinphi);
-                    //dfgsg
 
 
 					// final 3D (x,y,z) coordinate after rotations, directly from
