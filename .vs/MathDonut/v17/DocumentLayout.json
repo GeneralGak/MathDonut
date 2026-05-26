@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Programming Project\\VIA Semester Projekter\\Math\\MathDonut\\",
+  "WorkspaceRootPath": "C:\\Programming Project\\VIA Semester Projekter\\Math\\MathDonut\\MathDonut\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBBA06A5-C4A4-4AE5-A427-A1ABFC46F79C}|MathDonut\\MathDonut.csproj|c:\\programming project\\via semester projekter\\math\\mathdonut\\mathdonut\\donut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBBA06A5-C4A4-4AE5-A427-A1ABFC46F79C}|MathDonut\\MathDonut.csproj|c:\\programming project\\via semester projekter\\math\\mathdonut\\mathdonut\\mathdonut\\donut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBBA06A5-C4A4-4AE5-A427-A1ABFC46F79C}|MathDonut\\MathDonut.csproj|solutionrelative:mathdonut\\donut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBBA06A5-C4A4-4AE5-A427-A1ABFC46F79C}|MathDonut\\MathDonut.csproj|c:\\programming project\\via semester projekter\\math\\mathdonut\\mathdonut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBBA06A5-C4A4-4AE5-A427-A1ABFC46F79C}|MathDonut\\MathDonut.csproj|c:\\programming project\\via semester projekter\\math\\mathdonut\\mathdonut\\mathdonut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBBA06A5-C4A4-4AE5-A427-A1ABFC46F79C}|MathDonut\\MathDonut.csproj|solutionrelative:mathdonut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,17 +18,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Donut.cs",
-              "DocumentMoniker": "C:\\Programming Project\\VIA Semester Projekter\\Math\\MathDonut\\MathDonut\\Donut.cs",
+              "DocumentMoniker": "C:\\Programming Project\\VIA Semester Projekter\\Math\\MathDonut\\MathDonut\\MathDonut\\Donut.cs",
               "RelativeDocumentMoniker": "MathDonut\\Donut.cs",
-              "ToolTip": "C:\\Programming Project\\VIA Semester Projekter\\Math\\MathDonut\\MathDonut\\Donut.cs",
+              "ToolTip": "C:\\Programming Project\\VIA Semester Projekter\\Math\\MathDonut\\MathDonut\\MathDonut\\Donut.cs",
               "RelativeToolTip": "MathDonut\\Donut.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T22:48:01.728Z",
               "EditorCaption": ""
@@ -37,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programming Project\\VIA Semester Projekter\\Math\\MathDonut\\MathDonut\\Program.cs",
+              "DocumentMoniker": "C:\\Programming Project\\VIA Semester Projekter\\Math\\MathDonut\\MathDonut\\MathDonut\\Program.cs",
               "RelativeDocumentMoniker": "MathDonut\\Program.cs",
-              "ToolTip": "C:\\Programming Project\\VIA Semester Projekter\\Math\\MathDonut\\MathDonut\\Program.cs",
+              "ToolTip": "C:\\Programming Project\\VIA Semester Projekter\\Math\\MathDonut\\MathDonut\\MathDonut\\Program.cs",
               "RelativeToolTip": "MathDonut\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwDEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

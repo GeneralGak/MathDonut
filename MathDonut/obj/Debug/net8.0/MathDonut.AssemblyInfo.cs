@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathDonut")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a01b4740d8f2c19b5bba35b057b1609af09bc75e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathDonut")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathDonut")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
