@@ -1,0 +1,28 @@
+C:\Users\marti\OneDrive\Dokumenter\VIA Software Ingeniør\Math\Math1\EksamensProjekt\MathDonut\MathDonut\bin\Debug\net8.0\MathDonut.exe
+C:\Users\marti\OneDrive\Dokumenter\VIA Software Ingeniør\Math\Math1\EksamensProjekt\MathDonut\MathDonut\bin\Debug\net8.0\MathDonut.deps.json
+C:\Users\marti\OneDrive\Dokumenter\VIA Software Ingeniør\Math\Math1\EksamensProjekt\MathDonut\MathDonut\bin\Debug\net8.0\MathDonut.runtimeconfig.json
+C:\Users\marti\OneDrive\Dokumenter\VIA Software Ingeniør\Math\Math1\EksamensProjekt\MathDonut\MathDonut\bin\Debug\net8.0\MathDonut.dll
+C:\Users\marti\OneDrive\Dokumenter\VIA Software Ingeniør\Math\Math1\EksamensProjekt\MathDonut\MathDonut\bin\Debug\net8.0\MathDonut.pdb
+C:\Users\marti\OneDrive\Dokumenter\VIA Software Ingeniør\Math\Math1\EksamensProjekt\MathDonut\MathDonut\obj\Debug\net8.0\MathDonut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Dokumenter\VIA Software Ingeniør\Math\Math1\EksamensProjekt\MathDonut\MathDonut\obj\Debug\net8.0\MathDonut.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Dokumenter\VIA Software Ingeniør\Math\Math1\EksamensProjekt\MathDonut\MathDonut\obj\Debug\net8.0\MathDonut.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Dokumenter\VIA Software Ingeniør\Math\Math1\EksamensProjekt\MathDonut\MathDonut\obj\Debug\net8.0\MathDonut.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Dokumenter\VIA Software Ingeniør\Math\Math1\EksamensProjekt\MathDonut\MathDonut\obj\Debug\net8.0\MathDonut.dll
+C:\Users\marti\OneDrive\Dokumenter\VIA Software Ingeniør\Math\Math1\EksamensProjekt\MathDonut\MathDonut\obj\Debug\net8.0\refint\MathDonut.dll
+C:\Users\marti\OneDrive\Dokumenter\VIA Software Ingeniør\Math\Math1\EksamensProjekt\MathDonut\MathDonut\obj\Debug\net8.0\MathDonut.pdb
+C:\Users\marti\OneDrive\Dokumenter\VIA Software Ingeniør\Math\Math1\EksamensProjekt\MathDonut\MathDonut\obj\Debug\net8.0\MathDonut.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Dokumenter\VIA Software Ingeniør\Math\Math1\EksamensProjekt\MathDonut\MathDonut\obj\Debug\net8.0\ref\MathDonut.dll
+C:\Programming Project\VIA Semester Projekter\Math\MathDonut\MathDonut\bin\Debug\net8.0\MathDonut.exe
+C:\Programming Project\VIA Semester Projekter\Math\MathDonut\MathDonut\bin\Debug\net8.0\MathDonut.deps.json
+C:\Programming Project\VIA Semester Projekter\Math\MathDonut\MathDonut\bin\Debug\net8.0\MathDonut.runtimeconfig.json
+C:\Programming Project\VIA Semester Projekter\Math\MathDonut\MathDonut\bin\Debug\net8.0\MathDonut.dll
+C:\Programming Project\VIA Semester Projekter\Math\MathDonut\MathDonut\bin\Debug\net8.0\MathDonut.pdb
+C:\Programming Project\VIA Semester Projekter\Math\MathDonut\MathDonut\obj\Debug\net8.0\MathDonut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Project\VIA Semester Projekter\Math\MathDonut\MathDonut\obj\Debug\net8.0\MathDonut.AssemblyInfoInputs.cache
+C:\Programming Project\VIA Semester Projekter\Math\MathDonut\MathDonut\obj\Debug\net8.0\MathDonut.AssemblyInfo.cs
+C:\Programming Project\VIA Semester Projekter\Math\MathDonut\MathDonut\obj\Debug\net8.0\MathDonut.csproj.CoreCompileInputs.cache
+C:\Programming Project\VIA Semester Projekter\Math\MathDonut\MathDonut\obj\Debug\net8.0\MathDonut.dll
+C:\Programming Project\VIA Semester Projekter\Math\MathDonut\MathDonut\obj\Debug\net8.0\refint\MathDonut.dll
+C:\Programming Project\VIA Semester Projekter\Math\MathDonut\MathDonut\obj\Debug\net8.0\MathDonut.pdb
+C:\Programming Project\VIA Semester Projekter\Math\MathDonut\MathDonut\obj\Debug\net8.0\MathDonut.genruntimeconfig.cache
+C:\Programming Project\VIA Semester Projekter\Math\MathDonut\MathDonut\obj\Debug\net8.0\ref\MathDonut.dll
