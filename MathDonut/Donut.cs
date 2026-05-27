@@ -15,12 +15,11 @@ namespace MathDonut
 
         public Donut(int _width, int _height)
         {
-			// Calculate constantZDistance2 based on screen size: the maximum x-distance occurs
-			// roughly at the edge of the torus, which is at x=R1+R2, z=0.  we
-			// want that to be displaced 3/8ths of the width of the screen, which
-			// is 3/4th of the way from the center to the side of the screen.
-			// screen_width*3/8 = constantZDistance2*(R1+R2)/(constantZDistance+0)
-			// screen_width*constantZDistance*3/(8*(R1+R2)) = constantZDistance2
+			// Kalkuler constantZDistance2 baseret på skærm størrelse: maks X afstand passer cirka
+			// til kanten af torus, hvilket er x=R1+R2, z=0. Vi vil rykke torus
+			// 3/8 dele af skærm bredden, hvilket er 3/4 dele af vejen fra centrum til siden af skærmen.
+			// _width * 3/8 = constantZDistance2 * (torusCircleRadius + torusCenterRadius)/(constantZDistance + 0)
+			// _width * constantZDistance * 3 / (8 * (torusCircleRadius + torusCenterRadius)) = constantZDistance2
 			constantZDistance2 = _width * constantZDistance * 3 / (8 * (torusCircleRadius + torusCenterRadius));
         }
 
@@ -84,15 +83,14 @@ namespace MathDonut
 
 					double[,] rotatedCirclePosition = MultiplyMatrices(circlePosition, MultiplyMatrices(circleRotation, MultiplyMatrices(rotateAroundX, rotateAroundZ)));
 
-					//Vector3 rotatedCirclePosition = new Vector3(circlePosition.X * cosphi, circlePosition.Y, -circlePosition.X * sinphi);
+                    //Vector3 rotatedCirclePosition = new Vector3(circlePosition.X * cosphi, circlePosition.Y, -circlePosition.X * sinphi);
 
 
-					// final 3D (x,y,z) coordinate after rotations, directly from
-					// our math above
-					//double x = circlePosition[0, 0] * (cosZ * cosphi + sinX * sinZ * sinphi) - circlePosition[0, 1] * cosX * sinZ;
-     //               double y = circlePosition[0, 0] * (sinZ * cosphi - sinX * cosZ * sinphi) + circlePosition[0, 1] * cosX * cosZ;
-     //               double z = constantZDistance + cosX * circlePosition[0, 0] * sinphi + circlePosition[0, 1] * sinX;
-                    double ooz = 1 / (constantZDistance + rotatedCirclePosition[0, 2]);  // "one over z"
+                    // Endelige 3D (x,y,z) koordinater efter rotationer, direkte fra den simplificerede ligning
+                    double x = (torusCenterRadius + torusCircleRadius * cosTheta) * (cosZ * cosphi + sinX * sinZ * sinphi) - (torusCircleRadius * sinTheta) * cosX * sinZ;
+                    double y = (torusCenterRadius + torusCircleRadius * cosTheta) * (sinZ * cosphi - sinX * cosZ * sinphi) + (torusCircleRadius * sinTheta) * cosX * cosZ;
+                    double z = constantZDistance + cosX * (torusCenterRadius + torusCircleRadius * cosTheta) * sinphi + (torusCircleRadius * sinTheta) * sinX;
+                    double ooz = 1 / (constantZDistance + -(torusCenterRadius + torusCircleRadius * cosTheta));  // "one over z"
 
                     // Vi laver herefter en projektion af X og Y koordinaterne,
                     // så koordinaterne går fra at være 3D til en 2D position på skærmen.
